@@ -1,6 +1,6 @@
 {
-  "name": "opencv-react",
-  "version": "0.0.5",
+  "name": "@goapptiv/opencv-react",
+  "version": "0.0.6",
   "description": "OpenCV react wrapper. Hooks first API.",
   "author": "giacomocerquone",
   "license": "MIT",
